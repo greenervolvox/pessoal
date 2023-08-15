@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Template Blog</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style">
+</head>
+<body>
+    <!--HEADER-->
+    <header>
+
+    </header>
+    <!--BOX CAPTURA-->
+    <section class="box-captura"> 
+
+    </section> <!--box-captura-->
+
+    <!-- CONTENT -->
+
+    <section class="content">
+        <div class="post left">
+
+        </div> <!--post-->
+        <div class="sidebar right">
+
+        </div> <!--sidebar-->
+        <div class="clear"></div>
+    </section> <!--content-->
+
+    <!-- footer-->
+    <footer>
+            
+    </footer>
+</body>
+</html>
